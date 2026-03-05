@@ -19,3 +19,5 @@ Agenda:
 -   determined
 
 # Resources
+
+![Title Slide Image](titleslide.png)
