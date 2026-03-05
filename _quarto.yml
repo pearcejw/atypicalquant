@@ -2,12 +2,30 @@ project:
   type: website
 
 website:
-  title: "atypicalquant"
+  title: "(α)typicalquant"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    foreground: "white"
+    right:
+      - href: about.qmd
+        text: About
+      - talks.qmd
+      - thoughts.qmd
+      - text: Tools
+        menu:
+          - text: About the Tools
+            href: tools.qmd
+          - text: Optimizer
+            href: https://pearcejw.shinyapps.io/optimizer/
+            target: _blank
+      - icon: github
+        href: https://github.com/pearcejw
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pearcejw/
+        target: _blank
+      - icon: envelope
+        href: mailto:john@atypicalquant.com
+        target: _blank
 
 format:
   html:
@@ -18,4 +36,3 @@ format:
     toc: true
 
 editor: visual
-

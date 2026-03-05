@@ -1,0 +1,12 @@
+---
+title: "Thoughts"
+listing: 
+  contents: thoughts
+  type: default
+  sort: "date desc"
+  categories: true
+---
+
+The Thoughts page is a collection of articles of interest.
+
+<hr>

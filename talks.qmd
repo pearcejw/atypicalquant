@@ -1,0 +1,12 @@
+---
+title: "Talks"
+listing: 
+  contents: talks
+  type: default
+  sort: "date desc"
+  categories: true
+---
+
+Details about my upcoming and prior speaking engagements are linked here:
+
+<hr>

@@ -1,11 +1,54 @@
 ---
-title: "atypicalquant"
+title: "(α)typicalquant"
+listing:
+  - id: talks
+    contents: talks
+    max-items: 3
+    sort: "date desc"
+    type: grid
+  - id: thoughts
+    contents: thoughts
+    max-items: 3
+    sort: "date desc"
+    type: grid
 ---
 
-This is a Quarto website.
+Welcome to (α)typicalquant, [my](about.qmd "About Me") personal website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[**Important Disclaimer:**]{.underline} All views on (α)typicalquant are my own and are not reflective of the views of my employer or any other organization I am affiliated with. The content of this website is intended for informational purposes only and does not represent investment advice or solicitation for investment.
 
-```{r}
-1 + 1
+# What You'll Find on (α)typicalquant
+
+## About
+
+Learn more [About](about.qmd) me.
+
+## Talks
+
+Details about my speaking engagements are on the [Talks](talks.qmd) page. A few of my upcoming and recent are listed here:
+
+::: {#talks}
+:::
+
+## Thoughts
+
+I have collected articles of interest on the [Thoughts](thoughts.qmd) page. Here are a few recent posts:
+
+::: {#thoughts}
+:::
+
+## Tools
+
+A variety of [Tools](tools.qmd) that I built are available to try out.
+
+# Acknowledgements
+
+<hr>
+
+This website was built with Quarto. To learn more visit <https://quarto.org/docs/websites>.
+
+<hr>
+
+```{=html}
+Navbar image credit: “<a href="https://www.flickr.com/photos/nasawebbtelescope/55118095230" title="NASA Reveals New Details About Dark Matter’s Influence on Universe">NASA Reveals New Details About Dark Matter’s Influence on Universe</a>” by <a href="https://www.flickr.com/photos/nasawebbtelescope/"NASA's James Webb Space Telescope</a>, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="license noopener noreferrer">CC BY 4.0</a>
 ```
