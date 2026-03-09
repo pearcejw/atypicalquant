@@ -13,12 +13,12 @@
   {
     "listing": "/index.html",
     "items": [
-      "/talks/2023-02-16_uic/index.html",
       "/talks/2026-03-09_uic_fin_456_556/index.html",
       "/talks/2026-01-29_cqa_uic/index.html",
       "/talks/2025-10-13_uic/index.html",
       "/talks/2024-03-27_uic/index.html",
       "/talks/2023-11-10_albion_formulas/index.html",
+      "/talks/2023-02-16_uic/index.html",
       "/thoughts/2024-09-30_mg_ai_impact/index.html",
       "/thoughts/2024-02-07_cio_monetary_policy/index.html",
       "/thoughts/2023-09-01_cio_ai_change/index.html",
@@ -30,12 +30,12 @@
   {
     "listing": "/talks.html",
     "items": [
-      "/talks/2023-02-16_uic/index.html",
       "/talks/2026-03-09_uic_fin_456_556/index.html",
       "/talks/2026-01-29_cqa_uic/index.html",
       "/talks/2025-10-13_uic/index.html",
       "/talks/2024-03-27_uic/index.html",
-      "/talks/2023-11-10_albion_formulas/index.html"
+      "/talks/2023-11-10_albion_formulas/index.html",
+      "/talks/2023-02-16_uic/index.html"
     ]
   }
 ]
