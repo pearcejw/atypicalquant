@@ -1,7 +1,7 @@
 ---
 title: "IMRF Overview"
 subtitle: "UIC Advanced Investment Management"
-author: "John W. Pearce, CFA, CAIA"
+author: "John W. Pearce, CFA"
 date: 2023-02-16
 categories: [UIC, Guest Lecture]
 ---
