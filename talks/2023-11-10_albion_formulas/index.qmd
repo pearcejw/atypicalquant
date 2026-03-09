@@ -3,7 +3,7 @@ title: "Formulas for Turning Your Passion into a Career"
 subtitle: "Albion College Gerstacker Institute 50th Anniversary Celebration"
 author: "John W. Pearce, CFA"
 date: 2023-11-10
-categories: [Albion]
+categories: [Albion, Keynote]
 ---
 
 I was invited to speak at the Albion College Gerstacker Institute 50th Anniversary Celebration.

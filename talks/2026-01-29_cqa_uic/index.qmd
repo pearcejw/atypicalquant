@@ -3,7 +3,7 @@ title: "The Future of Quant Investing"
 subtitle: "CQA Hosted Moderated Discussion at UIC"
 author: "John W. Pearce, CFA, CAIA"
 date: 2026-01-29
-categories: [CQA, UIC]
+categories: [CQA, UIC, Panel]
 ---
 
 I was a panelist at a [CQA](https://cqa.org/) hosted event at UIC.

@@ -3,7 +3,7 @@ title: "Thinking About Asset Owners"
 subtitle: "UIC Advanced Investment Management"
 author: "John W. Pearce, CFA, CAIA"
 date: 2026-03-09
-categories: [UIC]
+categories: [UIC, Guest Lecture]
 ---
 
 I will be speaking during both sections of John Wightkin's Advanced Investment Management course on March 9, 2026.
