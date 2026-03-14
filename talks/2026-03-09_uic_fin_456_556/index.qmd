@@ -6,7 +6,7 @@ date: 2026-03-09
 categories: [UIC, Guest Lecture]
 ---
 
-I will be speaking during both sections of John Wightkin's Advanced Investment Management course on March 9, 2026.
+I spoke both sections of John Wightkin's Advanced Investment Management course on March 9, 2026.
 
 # Learning Objectives
 
@@ -18,3 +18,11 @@ IV. Why do asset owners hire asset managers?
 # Resources
 
 ![Title Slide Image](titleslide.png)
+
+## Links to Discussed Articles and Papers
+
+-   [The Rise of the Total Portfolio Approach](https://caia.org/total-portfolio-approach-2024)
+-   [CalPERS Board Adopts TPA](https://www.calpers.ca.gov/newsroom/calpers-news/2025/calpers-board-adopts-streamlined-investment-approach-to-seize-market-opportunities)
+-   [Portfolio Design as Gesamtkunstwerk](https://www.alliancebernstein.com/americas/en/institutions/insights/investment-insights/portfolio-design-as-gesamtkunstwerk-the-total-portfolio-approach.html)
+-   [Everyone Wants a Pension - Matt Levine](https://www.bloomberg.com/opinion/newsletters/2026-03-03/everyone-wants-a-pension)
+-   [Money Doctors](https://www.nber.org/papers/w18174)
