@@ -13,6 +13,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/talks/2026-03-30_albion/index.html",
       "/talks/2026-03-09_uic_fin_456_556/index.html",
       "/talks/2026-01-29_cqa_uic/index.html",
       "/talks/2025-10-13_uic/index.html",
@@ -30,6 +31,7 @@
   {
     "listing": "/talks.html",
     "items": [
+      "/talks/2026-03-30_albion/index.html",
       "/talks/2026-03-09_uic_fin_456_556/index.html",
       "/talks/2026-01-29_cqa_uic/index.html",
       "/talks/2025-10-13_uic/index.html",
