@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure Investing Roundtable"
-subtitle: "AIF Global Annual Meeting"
+subtitle: "AIF Global Annual Meeting 2026"
 author: "John W. Pearce, CFA, CAIA"
 date: 2026-01-14
 categories: [AIF Global, Panel]

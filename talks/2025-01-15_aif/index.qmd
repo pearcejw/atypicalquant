@@ -1,6 +1,6 @@
 ---
-title: "Infrastructure Investing Roundtable"
-subtitle: "AIF Global Annual Meeting"
+title: "Portfolio Construction Roundtable"
+subtitle: "AIF Global Annual Meeting 2025"
 author: "John W. Pearce, CFA"
 date: 2025-01-15
 categories: [AIF Global, Panel]
