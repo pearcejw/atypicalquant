@@ -6,3 +6,15 @@
   background-repeat: no-repeat; /* Prevents the image from repeating */
   background-position: center; /* Centers the background image */
 }
+
+.navbar .navlink {
+  color: #ffffff;
+}
+
+.navbar .navlink.active {
+  font-weight: bold;
+}
+
+.navbar .navlink:hover {
+  font-weight: bold;
+}
