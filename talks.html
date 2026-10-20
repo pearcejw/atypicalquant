@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -41,10 +44,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e588232868f3ac82f4fe5bcb1b9bf4e3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7558c12ab836780758277c8c7b24d75a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -103,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -207,7 +210,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="QUlGJTIwR2xvYmFs">AIF Global <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QWxiaW9u">Albion <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q1FB">CQA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R3Vlc3QlMjBMZWN0dXJl">Guest Lecture <span class="quarto-category-count">(5)</span></div><div class="category" data-category="S2V5bm90ZQ==">Keynote <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFuZWw=">Panel <span class="quarto-category-count">(3)</span></div><div class="category" data-category="VUlD">UIC <span class="quarto-category-count">(5)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(10)</span></div><div class="category" data-category="QUlGJTIwR2xvYmFs">AIF Global <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QWxiaW9u">Albion <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q1FB">CQA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R3Vlc3QlMjBMZWN0dXJl">Guest Lecture <span class="quarto-category-count">(5)</span></div><div class="category" data-category="SUk=">II <span class="quarto-category-count">(1)</span></div><div class="category" data-category="S2V5bm90ZQ==">Keynote <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFuZWw=">Panel <span class="quarto-category-count">(4)</span></div><div class="category" data-category="VUlD">UIC <span class="quarto-category-count">(5)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -238,7 +241,42 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QWxiaW9uJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1774828800000" data-listing-file-modified-sort="1775351527128" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<div class="quarto-post image-right" data-index="0" data-categories="SUklMkNQYW5lbA==" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1792531361255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<div class="thumbnail"><a href="./talks/2026-10-07_ii_roundtable/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./talks/2026-10-07_ii_roundtable/index.html" class="no-external">Active vs.&nbsp;Passive in an Era of Mega-Cap Dominance</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./talks/2026-10-07_ii_roundtable/index.html" class="no-external">II Consultants &amp; Institutional Investors Roundtable 2026</a>
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('SUk='); return false;">II</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UGFuZWw='); return false;">Panel</div>
+
+</div>
+<div class="delink listing-description"><a href="./talks/2026-10-07_ii_roundtable/index.html" class="no-external">
+I participated as a panelist discussing the role of active and passive equity investing styles at the Institutional Investor Consultants &amp; Institutional Investors Roundtable…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./talks/2026-10-07_ii_roundtable/index.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+John W. Pearce, CFA, CAIA
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="QWxiaW9uJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1774828800000" data-listing-file-modified-sort="1792531361254" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
 <div class="thumbnail"><a href="./talks/2026-03-30_albion/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2026-03-30_albion/titleslide.png"  class="thumbnail-image card-img"/></p>
@@ -273,7 +311,7 @@ John W. Pearce, CFA, CAIA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="VUlDJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1775351527128" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
+<div class="quarto-post image-right" data-index="2" data-categories="VUlDJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1792531361254" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
 <div class="thumbnail"><a href="./talks/2026-03-09_uic_fin_456_556/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2026-03-09_uic_fin_456_556/titleslide.png"  class="thumbnail-image card-img"/></p>
@@ -308,7 +346,7 @@ John W. Pearce, CFA, CAIA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Q1FBJTJDVUlDJTJDUGFuZWw=" data-listing-date-sort="1769644800000" data-listing-file-modified-sort="1775351527126" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<div class="quarto-post image-right" data-index="3" data-categories="Q1FBJTJDVUlDJTJDUGFuZWw=" data-listing-date-sort="1769644800000" data-listing-file-modified-sort="1792531361253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
 <div class="thumbnail"><a href="./talks/2026-01-29_cqa_uic/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2026-01-29_cqa_uic/cqa_flyer.png"  class="thumbnail-image card-img"/></p>
@@ -345,7 +383,7 @@ John W. Pearce, CFA, CAIA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="QUlGJTIwR2xvYmFsJTJDUGFuZWw=" data-listing-date-sort="1768348800000" data-listing-file-modified-sort="1775351527123" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<div class="quarto-post image-right" data-index="4" data-categories="QUlGJTIwR2xvYmFsJTJDUGFuZWw=" data-listing-date-sort="1768348800000" data-listing-file-modified-sort="1792531361250" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
 <div class="thumbnail"><a href="./talks/2026-01-14_aif/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2026-01-14_aif/2026_aif_annual_investors_mtg_invite_new.jpg"  class="thumbnail-image card-img"/></p>
@@ -380,7 +418,7 @@ John W. Pearce, CFA, CAIA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="VUlDJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1760313600000" data-listing-file-modified-sort="1775351527123" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
+<div class="quarto-post image-right" data-index="5" data-categories="VUlDJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1760313600000" data-listing-file-modified-sort="1792531361250" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
 <div class="thumbnail"><a href="./talks/2025-10-13_uic/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2025-10-13_uic/titleslide.png"  class="thumbnail-image card-img"/></p>
@@ -415,7 +453,7 @@ John W. Pearce, CFA, CAIA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="QUlGJTIwR2xvYmFsJTJDUGFuZWw=" data-listing-date-sort="1736899200000" data-listing-file-modified-sort="1775351527123" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<div class="quarto-post image-right" data-index="6" data-categories="QUlGJTIwR2xvYmFsJTJDUGFuZWw=" data-listing-date-sort="1736899200000" data-listing-file-modified-sort="1792531361250" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
 <div class="thumbnail"><a href="./talks/2025-01-15_aif/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2025-01-15_aif/2025_aif_20year_annual_meeting_invite.jpg"  class="thumbnail-image card-img"/></p>
@@ -450,7 +488,7 @@ John W. Pearce, CFA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="VUlDJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1711497600000" data-listing-file-modified-sort="1775351527120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
+<div class="quarto-post image-right" data-index="7" data-categories="VUlDJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1711497600000" data-listing-file-modified-sort="1792531361247" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
 <div class="thumbnail"><a href="./talks/2024-03-27_uic/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2024-03-27_uic/titleslide.png"  class="thumbnail-image card-img"/></p>
@@ -485,7 +523,7 @@ John W. Pearce, CFA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="QWxiaW9uJTJDS2V5bm90ZQ==" data-listing-date-sort="1699574400000" data-listing-file-modified-sort="1775351527120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
+<div class="quarto-post image-right" data-index="8" data-categories="QWxiaW9uJTJDS2V5bm90ZQ==" data-listing-date-sort="1699574400000" data-listing-file-modified-sort="1792531361247" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
 <div class="thumbnail"><a href="./talks/2023-11-10_albion_formulas/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2023-11-10_albion_formulas/formulas_titlecard.png"  class="thumbnail-image card-img"/></p>
@@ -520,7 +558,7 @@ John W. Pearce, CFA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="VUlDJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1676505600000" data-listing-file-modified-sort="1775351527106" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
+<div class="quarto-post image-right" data-index="9" data-categories="VUlDJTJDR3Vlc3QlMjBMZWN0dXJl" data-listing-date-sort="1676505600000" data-listing-file-modified-sort="1792531361232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
 <div class="thumbnail"><a href="./talks/2023-02-16_uic/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="talks/2023-02-16_uic/titleslide.png"  class="thumbnail-image card-img"/></p>
